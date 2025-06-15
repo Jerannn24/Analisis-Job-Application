@@ -59,20 +59,40 @@ edges = []
 for applicant in applicants:
     edges.append({'source': applicant, 'target': random.choice(schools), 'relation': 'attended'})
     edges.append({'source': applicant, 'target': random.choice(cities), 'relation': 'lives_in'})
-    for _ in range(random.randint(2, 4)):
-        edges.append({'source': applicant, 'target': random.choice(skills), 'relation': 'has_skill'})
-    for _ in range(random.randint(1, 2)):
-        edges.append({'source': applicant, 'target': random.choice(languages), 'relation': 'speaks'})
-    for _ in range(random.randint(1, 3)):
-        job = random.choice(jobs)
+    
+    skill_count = random.randint(2, 4)
+    selected_skills = random.sample(skills, skill_count)
+    for skill in selected_skills:
+        edges.append({'source': applicant, 'target': skill, 'relation': 'has_skill'})
+        
+    lang_count = random.randint(1, 2)
+    selected_langs = random.sample(languages, lang_count)
+    for lang in selected_langs:
+        edges.append({'source': applicant, 'target': lang, 'relation': 'speaks'})
+        
+    applied_jobs = random.sample(jobs, random.randint(1, 3))
+    for job in applied_jobs:
         edges.append({'source': applicant, 'target': job, 'relation': 'applied'})
+        
+    cert_count = random.randint(1, 2)
+    selected_certs = random.sample(certifications, cert_count)
+    for cert in selected_certs:
+        edges.append({'source': applicant, 'target': cert, 'relation': 'has_certification'})
+
+    edges.append({'source': applicant, 'target': random.choice(exp_levels), 'relation': 'has_experience_level'})
+    edges.append({'source': applicant, 'target': random.choice(GPA_levels), 'relation': 'has_GPA_level'})
+    
 
 for job in jobs:
     edges.append({'source': job, 'target': random.choice(companies), 'relation': 'offered_by'})
     edges.append({'source': job, 'target': random.choice(cities), 'relation': 'located_in'})
     for _ in range(random.randint(2, 4)):
         edges.append({'source': job, 'target': random.choice(skills), 'relation': 'requires'})
-
+    edges.append({'source': job, 'target': random.choice(exp_levels), 'relation': 'requires_experience_level'})
+    edges.append({'source': job, 'target': random.choice(certifications), 'relation': 'requires_certification'})
+    edges.append({'source': job, 'target': random.choice(job_roles), 'relation': 'is_job_role'})
+    edges.append({'source': job, 'target': random.choice(GPA_levels), 'relation': 'requires_GPA_level'})
+    
 edges_df = pd.DataFrame(edges)
 edges_df.to_csv(f"{folder}/edges.csv", index=False)
 

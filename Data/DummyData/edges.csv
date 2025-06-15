@@ -1,0 +1,801 @@
+source,target,relation
+Dewi Santoso,Binus,attended
+Dewi Santoso,Tangerang,lives_in
+Dewi Santoso,Kubernetes,has_skill
+Dewi Santoso,PHP,has_skill
+Dewi Santoso,Swift,has_skill
+Dewi Santoso,Kotlin,has_skill
+Dewi Santoso,Indonesian,speaks
+Dewi Santoso,Arabic,speaks
+Dewi Santoso,job_15,applied
+Dewi Santoso,job_2,applied
+Dewi Santoso,job_1,applied
+Dewi Santoso,Google Cloud Certified,has_certification
+Dewi Santoso,Mid Level,has_experience_level
+Dewi Santoso,With Honors,has_GPA_level
+Indah Saputra,UMN,attended
+Indah Saputra,Jakarta,lives_in
+Indah Saputra,Kotlin,has_skill
+Indah Saputra,MongoDB,has_skill
+Indah Saputra,Docker,has_skill
+Indah Saputra,Arabic,speaks
+Indah Saputra,English,speaks
+Indah Saputra,job_3,applied
+Indah Saputra,job_17,applied
+Indah Saputra,job_8,applied
+Indah Saputra,AWS Certified,has_certification
+Indah Saputra,Microsoft Certified,has_certification
+Indah Saputra,Manager,has_experience_level
+Indah Saputra,Magna Cum Laude,has_GPA_level
+Hadi Utami,IPB,attended
+Hadi Utami,Jakarta,lives_in
+Hadi Utami,PHP,has_skill
+Hadi Utami,Docker,has_skill
+Hadi Utami,HTML,has_skill
+Hadi Utami,AWS,has_skill
+Hadi Utami,Japanese,speaks
+Hadi Utami,job_16,applied
+Hadi Utami,job_6,applied
+Hadi Utami,job_4,applied
+Hadi Utami,Google Cloud Certified,has_certification
+Hadi Utami,AWS Certified,has_certification
+Hadi Utami,Director,has_experience_level
+Hadi Utami,Summa Cum Laude,has_GPA_level
+Dewi Fauzi,IPB,attended
+Dewi Fauzi,Jakarta,lives_in
+Dewi Fauzi,TypeScript,has_skill
+Dewi Fauzi,R,has_skill
+Dewi Fauzi,English,speaks
+Dewi Fauzi,job_18,applied
+Dewi Fauzi,AWS Certified,has_certification
+Dewi Fauzi,Manager,has_experience_level
+Dewi Fauzi,Cum Laude,has_GPA_level
+Citra Permata,Unair,attended
+Citra Permata,Bandung,lives_in
+Citra Permata,Firebase,has_skill
+Citra Permata,Kubernetes,has_skill
+Citra Permata,Japanese,speaks
+Citra Permata,job_19,applied
+Citra Permata,job_13,applied
+Citra Permata,job_6,applied
+Citra Permata,Microsoft Certified,has_certification
+Citra Permata,Manager,has_experience_level
+Citra Permata,Summa Cum Laude,has_GPA_level
+Nina Santoso,IPB,attended
+Nina Santoso,Depok,lives_in
+Nina Santoso,C++,has_skill
+Nina Santoso,JavaScript,has_skill
+Nina Santoso,AWS,has_skill
+Nina Santoso,Japanese,speaks
+Nina Santoso,job_18,applied
+Nina Santoso,CompTIA Certified,has_certification
+Nina Santoso,Mid Level,has_experience_level
+Nina Santoso,Cum Laude,has_GPA_level
+Andi Wibowo,UI,attended
+Andi Wibowo,Tangerang,lives_in
+Andi Wibowo,Java,has_skill
+Andi Wibowo,JavaScript,has_skill
+Andi Wibowo,SQL,has_skill
+Andi Wibowo,GCP,has_skill
+Andi Wibowo,English,speaks
+Andi Wibowo,Indonesian,speaks
+Andi Wibowo,job_15,applied
+Andi Wibowo,job_6,applied
+Andi Wibowo,CompTIA Certified,has_certification
+Andi Wibowo,Director,has_experience_level
+Andi Wibowo,With Honors,has_GPA_level
+Gita Saputra,Binus,attended
+Gita Saputra,Yogyakarta,lives_in
+Gita Saputra,CSS,has_skill
+Gita Saputra,C++,has_skill
+Gita Saputra,AWS,has_skill
+Gita Saputra,Japanese,speaks
+Gita Saputra,Mandarin,speaks
+Gita Saputra,job_14,applied
+Gita Saputra,job_1,applied
+Gita Saputra,AWS Certified,has_certification
+Gita Saputra,Manager,has_experience_level
+Gita Saputra,Summa Cum Laude,has_GPA_level
+Qori Permata,UI,attended
+Qori Permata,Bandung,lives_in
+Qori Permata,CSS,has_skill
+Qori Permata,Kubernetes,has_skill
+Qori Permata,Indonesian,speaks
+Qori Permata,Mandarin,speaks
+Qori Permata,job_8,applied
+Qori Permata,Google Cloud Certified,has_certification
+Qori Permata,AWS Certified,has_certification
+Qori Permata,Manager,has_experience_level
+Qori Permata,Regular,has_GPA_level
+Andi Fauzi,UI,attended
+Andi Fauzi,Jakarta,lives_in
+Andi Fauzi,Kubernetes,has_skill
+Andi Fauzi,Python,has_skill
+Andi Fauzi,SQL,has_skill
+Andi Fauzi,JavaScript,has_skill
+Andi Fauzi,Mandarin,speaks
+Andi Fauzi,job_15,applied
+Andi Fauzi,job_6,applied
+Andi Fauzi,AWS Certified,has_certification
+Andi Fauzi,Google Cloud Certified,has_certification
+Andi Fauzi,Manager,has_experience_level
+Andi Fauzi,Cum Laude,has_GPA_level
+Gita Fauzi,Telkom,attended
+Gita Fauzi,Surabaya,lives_in
+Gita Fauzi,R,has_skill
+Gita Fauzi,Swift,has_skill
+Gita Fauzi,Kubernetes,has_skill
+Gita Fauzi,Indonesian,speaks
+Gita Fauzi,Arabic,speaks
+Gita Fauzi,job_6,applied
+Gita Fauzi,job_1,applied
+Gita Fauzi,Microsoft Certified,has_certification
+Gita Fauzi,Entry Level,has_experience_level
+Gita Fauzi,Cum Laude,has_GPA_level
+Nina Saputra,UMN,attended
+Nina Saputra,Yogyakarta,lives_in
+Nina Saputra,Docker,has_skill
+Nina Saputra,HTML,has_skill
+Nina Saputra,Java,has_skill
+Nina Saputra,GCP,has_skill
+Nina Saputra,Indonesian,speaks
+Nina Saputra,job_19,applied
+Nina Saputra,Google Cloud Certified,has_certification
+Nina Saputra,Manager,has_experience_level
+Nina Saputra,Cum Laude,has_GPA_level
+Oka Permata,UMN,attended
+Oka Permata,Bandung,lives_in
+Oka Permata,GCP,has_skill
+Oka Permata,Java,has_skill
+Oka Permata,SQL,has_skill
+Oka Permata,Swift,has_skill
+Oka Permata,Japanese,speaks
+Oka Permata,Indonesian,speaks
+Oka Permata,job_10,applied
+Oka Permata,job_7,applied
+Oka Permata,job_8,applied
+Oka Permata,Google Cloud Certified,has_certification
+Oka Permata,Microsoft Certified,has_certification
+Oka Permata,Manager,has_experience_level
+Oka Permata,Summa Cum Laude,has_GPA_level
+Indah Santoso,UI,attended
+Indah Santoso,Jakarta,lives_in
+Indah Santoso,GCP,has_skill
+Indah Santoso,AWS,has_skill
+Indah Santoso,C++,has_skill
+Indah Santoso,Arabic,speaks
+Indah Santoso,job_16,applied
+Indah Santoso,Google Cloud Certified,has_certification
+Indah Santoso,Microsoft Certified,has_certification
+Indah Santoso,Entry Level,has_experience_level
+Indah Santoso,Magna Cum Laude,has_GPA_level
+Fajar Ramadhan,ITS,attended
+Fajar Ramadhan,Surabaya,lives_in
+Fajar Ramadhan,MongoDB,has_skill
+Fajar Ramadhan,Kubernetes,has_skill
+Fajar Ramadhan,Arabic,speaks
+Fajar Ramadhan,English,speaks
+Fajar Ramadhan,job_17,applied
+Fajar Ramadhan,job_9,applied
+Fajar Ramadhan,job_3,applied
+Fajar Ramadhan,Microsoft Certified,has_certification
+Fajar Ramadhan,Entry Level,has_experience_level
+Fajar Ramadhan,Cum Laude,has_GPA_level
+Kiki Wijaya,Unair,attended
+Kiki Wijaya,Bandung,lives_in
+Kiki Wijaya,R,has_skill
+Kiki Wijaya,CSS,has_skill
+Kiki Wijaya,NodeJS,has_skill
+Kiki Wijaya,Japanese,speaks
+Kiki Wijaya,job_15,applied
+Kiki Wijaya,job_8,applied
+Kiki Wijaya,job_1,applied
+Kiki Wijaya,Cisco Certified,has_certification
+Kiki Wijaya,Senior Level,has_experience_level
+Kiki Wijaya,Cum Laude,has_GPA_level
+Eka Saputra,ITB,attended
+Eka Saputra,Surabaya,lives_in
+Eka Saputra,PHP,has_skill
+Eka Saputra,HTML,has_skill
+Eka Saputra,Arabic,speaks
+Eka Saputra,Mandarin,speaks
+Eka Saputra,job_0,applied
+Eka Saputra,job_3,applied
+Eka Saputra,job_2,applied
+Eka Saputra,CompTIA Certified,has_certification
+Eka Saputra,Entry Level,has_experience_level
+Eka Saputra,Summa Cum Laude,has_GPA_level
+Kiki Wibowo,UMN,attended
+Kiki Wibowo,Depok,lives_in
+Kiki Wibowo,Swift,has_skill
+Kiki Wibowo,Go,has_skill
+Kiki Wibowo,Japanese,speaks
+Kiki Wibowo,job_1,applied
+Kiki Wibowo,job_11,applied
+Kiki Wibowo,Google Cloud Certified,has_certification
+Kiki Wibowo,Entry Level,has_experience_level
+Kiki Wibowo,Summa Cum Laude,has_GPA_level
+Citra Ramadhan,Unair,attended
+Citra Ramadhan,Yogyakarta,lives_in
+Citra Ramadhan,Go,has_skill
+Citra Ramadhan,JavaScript,has_skill
+Citra Ramadhan,HTML,has_skill
+Citra Ramadhan,Kubernetes,has_skill
+Citra Ramadhan,English,speaks
+Citra Ramadhan,Indonesian,speaks
+Citra Ramadhan,job_10,applied
+Citra Ramadhan,job_13,applied
+Citra Ramadhan,job_7,applied
+Citra Ramadhan,Google Cloud Certified,has_certification
+Citra Ramadhan,AWS Certified,has_certification
+Citra Ramadhan,Manager,has_experience_level
+Citra Ramadhan,Cum Laude,has_GPA_level
+Dewi Halim,IPB,attended
+Dewi Halim,Bandung,lives_in
+Dewi Halim,MongoDB,has_skill
+Dewi Halim,TypeScript,has_skill
+Dewi Halim,Indonesian,speaks
+Dewi Halim,Arabic,speaks
+Dewi Halim,job_6,applied
+Dewi Halim,Microsoft Certified,has_certification
+Dewi Halim,CompTIA Certified,has_certification
+Dewi Halim,Entry Level,has_experience_level
+Dewi Halim,Summa Cum Laude,has_GPA_level
+Lia Permata,ITS,attended
+Lia Permata,Tangerang,lives_in
+Lia Permata,Kotlin,has_skill
+Lia Permata,Kubernetes,has_skill
+Lia Permata,NodeJS,has_skill
+Lia Permata,Python,has_skill
+Lia Permata,Japanese,speaks
+Lia Permata,job_18,applied
+Lia Permata,AWS Certified,has_certification
+Lia Permata,CompTIA Certified,has_certification
+Lia Permata,Director,has_experience_level
+Lia Permata,With Honors,has_GPA_level
+Indah Santoso,ITS,attended
+Indah Santoso,Tangerang,lives_in
+Indah Santoso,Swift,has_skill
+Indah Santoso,Docker,has_skill
+Indah Santoso,C++,has_skill
+Indah Santoso,Arabic,speaks
+Indah Santoso,Indonesian,speaks
+Indah Santoso,job_1,applied
+Indah Santoso,job_13,applied
+Indah Santoso,CompTIA Certified,has_certification
+Indah Santoso,Director,has_experience_level
+Indah Santoso,Magna Cum Laude,has_GPA_level
+Oka Fauzi,ITS,attended
+Oka Fauzi,Yogyakarta,lives_in
+Oka Fauzi,NodeJS,has_skill
+Oka Fauzi,GCP,has_skill
+Oka Fauzi,Japanese,speaks
+Oka Fauzi,job_9,applied
+Oka Fauzi,job_13,applied
+Oka Fauzi,job_10,applied
+Oka Fauzi,Microsoft Certified,has_certification
+Oka Fauzi,Google Cloud Certified,has_certification
+Oka Fauzi,Mid Level,has_experience_level
+Oka Fauzi,With Honors,has_GPA_level
+Dewi Ramadhan,Telkom,attended
+Dewi Ramadhan,Tangerang,lives_in
+Dewi Ramadhan,HTML,has_skill
+Dewi Ramadhan,AWS,has_skill
+Dewi Ramadhan,R,has_skill
+Dewi Ramadhan,Kotlin,has_skill
+Dewi Ramadhan,Japanese,speaks
+Dewi Ramadhan,job_6,applied
+Dewi Ramadhan,job_13,applied
+Dewi Ramadhan,Cisco Certified,has_certification
+Dewi Ramadhan,CompTIA Certified,has_certification
+Dewi Ramadhan,Manager,has_experience_level
+Dewi Ramadhan,Magna Cum Laude,has_GPA_level
+Citra Fauzi,Unair,attended
+Citra Fauzi,Yogyakarta,lives_in
+Citra Fauzi,HTML,has_skill
+Citra Fauzi,SQL,has_skill
+Citra Fauzi,R,has_skill
+Citra Fauzi,Docker,has_skill
+Citra Fauzi,English,speaks
+Citra Fauzi,Indonesian,speaks
+Citra Fauzi,job_9,applied
+Citra Fauzi,job_7,applied
+Citra Fauzi,job_6,applied
+Citra Fauzi,AWS Certified,has_certification
+Citra Fauzi,Entry Level,has_experience_level
+Citra Fauzi,Magna Cum Laude,has_GPA_level
+Joko Permata,IPB,attended
+Joko Permata,Depok,lives_in
+Joko Permata,MongoDB,has_skill
+Joko Permata,Swift,has_skill
+Joko Permata,Mandarin,speaks
+Joko Permata,job_12,applied
+Joko Permata,job_7,applied
+Joko Permata,AWS Certified,has_certification
+Joko Permata,Entry Level,has_experience_level
+Joko Permata,With Honors,has_GPA_level
+Lia Permata,Binus,attended
+Lia Permata,Bandung,lives_in
+Lia Permata,Docker,has_skill
+Lia Permata,MongoDB,has_skill
+Lia Permata,Java,has_skill
+Lia Permata,JavaScript,has_skill
+Lia Permata,Mandarin,speaks
+Lia Permata,job_14,applied
+Lia Permata,Cisco Certified,has_certification
+Lia Permata,CompTIA Certified,has_certification
+Lia Permata,Director,has_experience_level
+Lia Permata,With Honors,has_GPA_level
+Gita Wibowo,UGM,attended
+Gita Wibowo,Tangerang,lives_in
+Gita Wibowo,MongoDB,has_skill
+Gita Wibowo,PHP,has_skill
+Gita Wibowo,JavaScript,has_skill
+Gita Wibowo,Arabic,speaks
+Gita Wibowo,Mandarin,speaks
+Gita Wibowo,job_7,applied
+Gita Wibowo,job_8,applied
+Gita Wibowo,job_14,applied
+Gita Wibowo,Microsoft Certified,has_certification
+Gita Wibowo,Mid Level,has_experience_level
+Gita Wibowo,Summa Cum Laude,has_GPA_level
+Budi Saputra,ITS,attended
+Budi Saputra,Surabaya,lives_in
+Budi Saputra,SQL,has_skill
+Budi Saputra,Go,has_skill
+Budi Saputra,AWS,has_skill
+Budi Saputra,JavaScript,has_skill
+Budi Saputra,Indonesian,speaks
+Budi Saputra,Arabic,speaks
+Budi Saputra,job_13,applied
+Budi Saputra,Microsoft Certified,has_certification
+Budi Saputra,Cisco Certified,has_certification
+Budi Saputra,Manager,has_experience_level
+Budi Saputra,Cum Laude,has_GPA_level
+Joko Wibowo,Binus,attended
+Joko Wibowo,Yogyakarta,lives_in
+Joko Wibowo,AWS,has_skill
+Joko Wibowo,Python,has_skill
+Joko Wibowo,Kotlin,has_skill
+Joko Wibowo,English,speaks
+Joko Wibowo,Japanese,speaks
+Joko Wibowo,job_12,applied
+Joko Wibowo,job_13,applied
+Joko Wibowo,Cisco Certified,has_certification
+Joko Wibowo,Mid Level,has_experience_level
+Joko Wibowo,Summa Cum Laude,has_GPA_level
+Hadi Wibowo,Telkom,attended
+Hadi Wibowo,Yogyakarta,lives_in
+Hadi Wibowo,Kotlin,has_skill
+Hadi Wibowo,NodeJS,has_skill
+Hadi Wibowo,Indonesian,speaks
+Hadi Wibowo,Mandarin,speaks
+Hadi Wibowo,job_19,applied
+Hadi Wibowo,Cisco Certified,has_certification
+Hadi Wibowo,Director,has_experience_level
+Hadi Wibowo,Regular,has_GPA_level
+Mira Wijaya,ITB,attended
+Mira Wijaya,Jakarta,lives_in
+Mira Wijaya,Swift,has_skill
+Mira Wijaya,Go,has_skill
+Mira Wijaya,MongoDB,has_skill
+Mira Wijaya,HTML,has_skill
+Mira Wijaya,Japanese,speaks
+Mira Wijaya,job_10,applied
+Mira Wijaya,job_6,applied
+Mira Wijaya,Microsoft Certified,has_certification
+Mira Wijaya,CompTIA Certified,has_certification
+Mira Wijaya,Manager,has_experience_level
+Mira Wijaya,Summa Cum Laude,has_GPA_level
+Oka Halim,Telkom,attended
+Oka Halim,Surabaya,lives_in
+Oka Halim,Firebase,has_skill
+Oka Halim,Python,has_skill
+Oka Halim,Japanese,speaks
+Oka Halim,job_2,applied
+Oka Halim,AWS Certified,has_certification
+Oka Halim,Mid Level,has_experience_level
+Oka Halim,Magna Cum Laude,has_GPA_level
+Fajar Halim,ITB,attended
+Fajar Halim,Depok,lives_in
+Fajar Halim,JavaScript,has_skill
+Fajar Halim,Go,has_skill
+Fajar Halim,English,speaks
+Fajar Halim,Indonesian,speaks
+Fajar Halim,job_8,applied
+Fajar Halim,job_11,applied
+Fajar Halim,CompTIA Certified,has_certification
+Fajar Halim,Director,has_experience_level
+Fajar Halim,Cum Laude,has_GPA_level
+Lia Saputra,UGM,attended
+Lia Saputra,Surabaya,lives_in
+Lia Saputra,AWS,has_skill
+Lia Saputra,Python,has_skill
+Lia Saputra,Arabic,speaks
+Lia Saputra,Mandarin,speaks
+Lia Saputra,job_6,applied
+Lia Saputra,job_2,applied
+Lia Saputra,AWS Certified,has_certification
+Lia Saputra,Senior Level,has_experience_level
+Lia Saputra,Regular,has_GPA_level
+Indah Wibowo,UI,attended
+Indah Wibowo,Depok,lives_in
+Indah Wibowo,TypeScript,has_skill
+Indah Wibowo,Kubernetes,has_skill
+Indah Wibowo,Japanese,speaks
+Indah Wibowo,English,speaks
+Indah Wibowo,job_10,applied
+Indah Wibowo,job_0,applied
+Indah Wibowo,job_13,applied
+Indah Wibowo,AWS Certified,has_certification
+Indah Wibowo,Cisco Certified,has_certification
+Indah Wibowo,Senior Level,has_experience_level
+Indah Wibowo,With Honors,has_GPA_level
+Tono Utami,UGM,attended
+Tono Utami,Yogyakarta,lives_in
+Tono Utami,Docker,has_skill
+Tono Utami,PHP,has_skill
+Tono Utami,Mandarin,speaks
+Tono Utami,Arabic,speaks
+Tono Utami,job_18,applied
+Tono Utami,job_8,applied
+Tono Utami,job_10,applied
+Tono Utami,AWS Certified,has_certification
+Tono Utami,Senior Level,has_experience_level
+Tono Utami,With Honors,has_GPA_level
+Rudi Saputra,Binus,attended
+Rudi Saputra,Yogyakarta,lives_in
+Rudi Saputra,GCP,has_skill
+Rudi Saputra,Kotlin,has_skill
+Rudi Saputra,NodeJS,has_skill
+Rudi Saputra,Python,has_skill
+Rudi Saputra,Japanese,speaks
+Rudi Saputra,Indonesian,speaks
+Rudi Saputra,job_6,applied
+Rudi Saputra,job_11,applied
+Rudi Saputra,Microsoft Certified,has_certification
+Rudi Saputra,CompTIA Certified,has_certification
+Rudi Saputra,Director,has_experience_level
+Rudi Saputra,Summa Cum Laude,has_GPA_level
+Fajar Hernawan,Unair,attended
+Fajar Hernawan,Jakarta,lives_in
+Fajar Hernawan,CSS,has_skill
+Fajar Hernawan,SQL,has_skill
+Fajar Hernawan,JavaScript,has_skill
+Fajar Hernawan,Swift,has_skill
+Fajar Hernawan,Arabic,speaks
+Fajar Hernawan,Indonesian,speaks
+Fajar Hernawan,job_15,applied
+Fajar Hernawan,job_19,applied
+Fajar Hernawan,job_14,applied
+Fajar Hernawan,AWS Certified,has_certification
+Fajar Hernawan,Senior Level,has_experience_level
+Fajar Hernawan,Magna Cum Laude,has_GPA_level
+Mira Wijaya,Telkom,attended
+Mira Wijaya,Tangerang,lives_in
+Mira Wijaya,R,has_skill
+Mira Wijaya,AWS,has_skill
+Mira Wijaya,Mandarin,speaks
+Mira Wijaya,Japanese,speaks
+Mira Wijaya,job_17,applied
+Mira Wijaya,job_10,applied
+Mira Wijaya,Cisco Certified,has_certification
+Mira Wijaya,Microsoft Certified,has_certification
+Mira Wijaya,Senior Level,has_experience_level
+Mira Wijaya,Summa Cum Laude,has_GPA_level
+Rudi Saputra,Binus,attended
+Rudi Saputra,Jakarta,lives_in
+Rudi Saputra,CSS,has_skill
+Rudi Saputra,NodeJS,has_skill
+Rudi Saputra,C++,has_skill
+Rudi Saputra,HTML,has_skill
+Rudi Saputra,Indonesian,speaks
+Rudi Saputra,job_15,applied
+Rudi Saputra,job_8,applied
+Rudi Saputra,job_16,applied
+Rudi Saputra,AWS Certified,has_certification
+Rudi Saputra,Google Cloud Certified,has_certification
+Rudi Saputra,Senior Level,has_experience_level
+Rudi Saputra,Magna Cum Laude,has_GPA_level
+Kiki Santoso,ITS,attended
+Kiki Santoso,Bandung,lives_in
+Kiki Santoso,Python,has_skill
+Kiki Santoso,Kubernetes,has_skill
+Kiki Santoso,Go,has_skill
+Kiki Santoso,English,speaks
+Kiki Santoso,Arabic,speaks
+Kiki Santoso,job_9,applied
+Kiki Santoso,job_4,applied
+Kiki Santoso,job_15,applied
+Kiki Santoso,AWS Certified,has_certification
+Kiki Santoso,Director,has_experience_level
+Kiki Santoso,Summa Cum Laude,has_GPA_level
+Hadi Santoso,IPB,attended
+Hadi Santoso,Yogyakarta,lives_in
+Hadi Santoso,NodeJS,has_skill
+Hadi Santoso,HTML,has_skill
+Hadi Santoso,Java,has_skill
+Hadi Santoso,Mandarin,speaks
+Hadi Santoso,English,speaks
+Hadi Santoso,job_12,applied
+Hadi Santoso,AWS Certified,has_certification
+Hadi Santoso,CompTIA Certified,has_certification
+Hadi Santoso,Mid Level,has_experience_level
+Hadi Santoso,Magna Cum Laude,has_GPA_level
+Kiki Ramadhan,UMN,attended
+Kiki Ramadhan,Surabaya,lives_in
+Kiki Ramadhan,JavaScript,has_skill
+Kiki Ramadhan,C++,has_skill
+Kiki Ramadhan,Arabic,speaks
+Kiki Ramadhan,Indonesian,speaks
+Kiki Ramadhan,job_12,applied
+Kiki Ramadhan,job_14,applied
+Kiki Ramadhan,job_18,applied
+Kiki Ramadhan,CompTIA Certified,has_certification
+Kiki Ramadhan,Cisco Certified,has_certification
+Kiki Ramadhan,Senior Level,has_experience_level
+Kiki Ramadhan,Regular,has_GPA_level
+Indah Wibowo,UMN,attended
+Indah Wibowo,Jakarta,lives_in
+Indah Wibowo,C++,has_skill
+Indah Wibowo,CSS,has_skill
+Indah Wibowo,AWS,has_skill
+Indah Wibowo,PHP,has_skill
+Indah Wibowo,Indonesian,speaks
+Indah Wibowo,job_5,applied
+Indah Wibowo,Google Cloud Certified,has_certification
+Indah Wibowo,Entry Level,has_experience_level
+Indah Wibowo,With Honors,has_GPA_level
+Gita Permata,IPB,attended
+Gita Permata,Tangerang,lives_in
+Gita Permata,Firebase,has_skill
+Gita Permata,R,has_skill
+Gita Permata,Java,has_skill
+Gita Permata,JavaScript,has_skill
+Gita Permata,Japanese,speaks
+Gita Permata,Mandarin,speaks
+Gita Permata,job_7,applied
+Gita Permata,CompTIA Certified,has_certification
+Gita Permata,Google Cloud Certified,has_certification
+Gita Permata,Manager,has_experience_level
+Gita Permata,Cum Laude,has_GPA_level
+Kiki Saputra,Unair,attended
+Kiki Saputra,Bandung,lives_in
+Kiki Saputra,Go,has_skill
+Kiki Saputra,PHP,has_skill
+Kiki Saputra,GCP,has_skill
+Kiki Saputra,SQL,has_skill
+Kiki Saputra,Indonesian,speaks
+Kiki Saputra,job_19,applied
+Kiki Saputra,job_18,applied
+Kiki Saputra,Cisco Certified,has_certification
+Kiki Saputra,AWS Certified,has_certification
+Kiki Saputra,Manager,has_experience_level
+Kiki Saputra,Summa Cum Laude,has_GPA_level
+Putri Ramadhan,Telkom,attended
+Putri Ramadhan,Surabaya,lives_in
+Putri Ramadhan,Kubernetes,has_skill
+Putri Ramadhan,Firebase,has_skill
+Putri Ramadhan,MongoDB,has_skill
+Putri Ramadhan,SQL,has_skill
+Putri Ramadhan,Mandarin,speaks
+Putri Ramadhan,job_10,applied
+Putri Ramadhan,job_8,applied
+Putri Ramadhan,job_0,applied
+Putri Ramadhan,Google Cloud Certified,has_certification
+Putri Ramadhan,Director,has_experience_level
+Putri Ramadhan,Regular,has_GPA_level
+Oka Utami,ITB,attended
+Oka Utami,Tangerang,lives_in
+Oka Utami,AWS,has_skill
+Oka Utami,Java,has_skill
+Oka Utami,HTML,has_skill
+Oka Utami,Arabic,speaks
+Oka Utami,Mandarin,speaks
+Oka Utami,job_5,applied
+Oka Utami,job_18,applied
+Oka Utami,Cisco Certified,has_certification
+Oka Utami,AWS Certified,has_certification
+Oka Utami,Manager,has_experience_level
+Oka Utami,Summa Cum Laude,has_GPA_level
+Indah Utami,Telkom,attended
+Indah Utami,Surabaya,lives_in
+Indah Utami,C++,has_skill
+Indah Utami,HTML,has_skill
+Indah Utami,NodeJS,has_skill
+Indah Utami,Mandarin,speaks
+Indah Utami,Japanese,speaks
+Indah Utami,job_12,applied
+Indah Utami,job_17,applied
+Indah Utami,job_1,applied
+Indah Utami,AWS Certified,has_certification
+Indah Utami,Microsoft Certified,has_certification
+Indah Utami,Senior Level,has_experience_level
+Indah Utami,Summa Cum Laude,has_GPA_level
+job_0,Bukalapak,offered_by
+job_0,Yogyakarta,located_in
+job_0,Python,requires
+job_0,Kubernetes,requires
+job_0,MongoDB,requires
+job_0,Swift,requires
+job_0,Entry Level,requires_experience_level
+job_0,Google Cloud Certified,requires_certification
+job_0,Network Engineer,is_job_role
+job_0,Summa Cum Laude,requires_GPA_level
+job_1,Dana,offered_by
+job_1,Yogyakarta,located_in
+job_1,MongoDB,requires
+job_1,Java,requires
+job_1,CSS,requires
+job_1,PHP,requires
+job_1,Director,requires_experience_level
+job_1,Google Cloud Certified,requires_certification
+job_1,DevOps Engineer,is_job_role
+job_1,With Honors,requires_GPA_level
+job_2,OVO,offered_by
+job_2,Jakarta,located_in
+job_2,GCP,requires
+job_2,JavaScript,requires
+job_2,Mid Level,requires_experience_level
+job_2,Microsoft Certified,requires_certification
+job_2,Network Engineer,is_job_role
+job_2,Cum Laude,requires_GPA_level
+job_3,Zenius,offered_by
+job_3,Yogyakarta,located_in
+job_3,JavaScript,requires
+job_3,C++,requires
+job_3,Manager,requires_experience_level
+job_3,AWS Certified,requires_certification
+job_3,Web Developer,is_job_role
+job_3,With Honors,requires_GPA_level
+job_4,Grab,offered_by
+job_4,Depok,located_in
+job_4,PHP,requires
+job_4,Swift,requires
+job_4,Firebase,requires
+job_4,Firebase,requires
+job_4,Mid Level,requires_experience_level
+job_4,Cisco Certified,requires_certification
+job_4,Network Engineer,is_job_role
+job_4,Magna Cum Laude,requires_GPA_level
+job_5,Ruangguru,offered_by
+job_5,Bandung,located_in
+job_5,Docker,requires
+job_5,Go,requires
+job_5,SQL,requires
+job_5,PHP,requires
+job_5,Manager,requires_experience_level
+job_5,Microsoft Certified,requires_certification
+job_5,Network Engineer,is_job_role
+job_5,Summa Cum Laude,requires_GPA_level
+job_6,Tokopedia,offered_by
+job_6,Surabaya,located_in
+job_6,R,requires
+job_6,AWS,requires
+job_6,AWS,requires
+job_6,Firebase,requires
+job_6,Mid Level,requires_experience_level
+job_6,Cisco Certified,requires_certification
+job_6,Network Engineer,is_job_role
+job_6,With Honors,requires_GPA_level
+job_7,Traveloka,offered_by
+job_7,Surabaya,located_in
+job_7,Kubernetes,requires
+job_7,Kotlin,requires
+job_7,MongoDB,requires
+job_7,NodeJS,requires
+job_7,Mid Level,requires_experience_level
+job_7,Google Cloud Certified,requires_certification
+job_7,Database Administrator,is_job_role
+job_7,With Honors,requires_GPA_level
+job_8,Gojek,offered_by
+job_8,Yogyakarta,located_in
+job_8,NodeJS,requires
+job_8,Firebase,requires
+job_8,Manager,requires_experience_level
+job_8,Cisco Certified,requires_certification
+job_8,Web Developer,is_job_role
+job_8,With Honors,requires_GPA_level
+job_9,Tokopedia,offered_by
+job_9,Bandung,located_in
+job_9,AWS,requires
+job_9,NodeJS,requires
+job_9,C++,requires
+job_9,MongoDB,requires
+job_9,Entry Level,requires_experience_level
+job_9,CompTIA Certified,requires_certification
+job_9,System Analyst,is_job_role
+job_9,Cum Laude,requires_GPA_level
+job_10,Shopee,offered_by
+job_10,Yogyakarta,located_in
+job_10,Go,requires
+job_10,SQL,requires
+job_10,Firebase,requires
+job_10,PHP,requires
+job_10,Senior Level,requires_experience_level
+job_10,CompTIA Certified,requires_certification
+job_10,Product Manager,is_job_role
+job_10,Cum Laude,requires_GPA_level
+job_11,Traveloka,offered_by
+job_11,Tangerang,located_in
+job_11,Kotlin,requires
+job_11,NodeJS,requires
+job_11,Firebase,requires
+job_11,Kubernetes,requires
+job_11,Entry Level,requires_experience_level
+job_11,CompTIA Certified,requires_certification
+job_11,Data Scientist,is_job_role
+job_11,Magna Cum Laude,requires_GPA_level
+job_12,Grab,offered_by
+job_12,Bandung,located_in
+job_12,SQL,requires
+job_12,Swift,requires
+job_12,C++,requires
+job_12,C++,requires
+job_12,Manager,requires_experience_level
+job_12,Google Cloud Certified,requires_certification
+job_12,DevOps Engineer,is_job_role
+job_12,Cum Laude,requires_GPA_level
+job_13,Tokopedia,offered_by
+job_13,Surabaya,located_in
+job_13,R,requires
+job_13,TypeScript,requires
+job_13,Senior Level,requires_experience_level
+job_13,Cisco Certified,requires_certification
+job_13,Web Developer,is_job_role
+job_13,Magna Cum Laude,requires_GPA_level
+job_14,Zenius,offered_by
+job_14,Yogyakarta,located_in
+job_14,HTML,requires
+job_14,HTML,requires
+job_14,HTML,requires
+job_14,SQL,requires
+job_14,Director,requires_experience_level
+job_14,Cisco Certified,requires_certification
+job_14,Database Administrator,is_job_role
+job_14,Magna Cum Laude,requires_GPA_level
+job_15,OVO,offered_by
+job_15,Depok,located_in
+job_15,JavaScript,requires
+job_15,MongoDB,requires
+job_15,Senior Level,requires_experience_level
+job_15,Cisco Certified,requires_certification
+job_15,DevOps Engineer,is_job_role
+job_15,Cum Laude,requires_GPA_level
+job_16,OVO,offered_by
+job_16,Surabaya,located_in
+job_16,Kubernetes,requires
+job_16,HTML,requires
+job_16,SQL,requires
+job_16,MongoDB,requires
+job_16,Senior Level,requires_experience_level
+job_16,CompTIA Certified,requires_certification
+job_16,DevOps Engineer,is_job_role
+job_16,With Honors,requires_GPA_level
+job_17,Grab,offered_by
+job_17,Yogyakarta,located_in
+job_17,CSS,requires
+job_17,Kotlin,requires
+job_17,Firebase,requires
+job_17,Entry Level,requires_experience_level
+job_17,Google Cloud Certified,requires_certification
+job_17,Product Manager,is_job_role
+job_17,Regular,requires_GPA_level
+job_18,Traveloka,offered_by
+job_18,Depok,located_in
+job_18,R,requires
+job_18,Python,requires
+job_18,Kotlin,requires
+job_18,Senior Level,requires_experience_level
+job_18,AWS Certified,requires_certification
+job_18,Database Administrator,is_job_role
+job_18,Cum Laude,requires_GPA_level
+job_19,Dana,offered_by
+job_19,Tangerang,located_in
+job_19,R,requires
+job_19,JavaScript,requires
+job_19,GCP,requires
+job_19,Senior Level,requires_experience_level
+job_19,Google Cloud Certified,requires_certification
+job_19,Mobile Developer,is_job_role
+job_19,Regular,requires_GPA_level
