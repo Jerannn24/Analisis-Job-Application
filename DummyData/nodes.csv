@@ -1,0 +1,147 @@
+node,type
+Dewi Santoso,applicant
+Indah Saputra,applicant
+Hadi Utami,applicant
+Dewi Fauzi,applicant
+Citra Permata,applicant
+Nina Santoso,applicant
+Andi Wibowo,applicant
+Gita Saputra,applicant
+Qori Permata,applicant
+Andi Fauzi,applicant
+Gita Fauzi,applicant
+Nina Saputra,applicant
+Oka Permata,applicant
+Indah Santoso,applicant
+Fajar Ramadhan,applicant
+Kiki Wijaya,applicant
+Eka Saputra,applicant
+Kiki Wibowo,applicant
+Citra Ramadhan,applicant
+Dewi Halim,applicant
+Lia Permata,applicant
+Indah Santoso,applicant
+Oka Fauzi,applicant
+Dewi Ramadhan,applicant
+Citra Fauzi,applicant
+Joko Permata,applicant
+Lia Permata,applicant
+Gita Wibowo,applicant
+Budi Saputra,applicant
+Joko Wibowo,applicant
+Hadi Wibowo,applicant
+Mira Wijaya,applicant
+Oka Halim,applicant
+Fajar Halim,applicant
+Lia Saputra,applicant
+Indah Wibowo,applicant
+Tono Utami,applicant
+Rudi Saputra,applicant
+Fajar Hernawan,applicant
+Mira Wijaya,applicant
+Rudi Saputra,applicant
+Kiki Santoso,applicant
+Hadi Santoso,applicant
+Kiki Ramadhan,applicant
+Indah Wibowo,applicant
+Gita Permata,applicant
+Kiki Saputra,applicant
+Putri Ramadhan,applicant
+Oka Utami,applicant
+Indah Utami,applicant
+job_0,job
+job_1,job
+job_2,job
+job_3,job
+job_4,job
+job_5,job
+job_6,job
+job_7,job
+job_8,job
+job_9,job
+job_10,job
+job_11,job
+job_12,job
+job_13,job
+job_14,job
+job_15,job
+job_16,job
+job_17,job
+job_18,job
+job_19,job
+Tokopedia,company
+Bukalapak,company
+Shopee,company
+Gojek,company
+Grab,company
+Traveloka,company
+Ruangguru,company
+OVO,company
+Zenius,company
+Dana,company
+Python,skill
+Java,skill
+SQL,skill
+C++,skill
+Go,skill
+HTML,skill
+CSS,skill
+JavaScript,skill
+PHP,skill
+R,skill
+NodeJS,skill
+TypeScript,skill
+Kotlin,skill
+Swift,skill
+MongoDB,skill
+Firebase,skill
+Docker,skill
+Kubernetes,skill
+AWS,skill
+GCP,skill
+English,language
+Indonesian,language
+Japanese,language
+Mandarin,language
+Arabic,language
+ITB,school
+UI,school
+UGM,school
+Binus,school
+Unpad,school
+ITS,school
+Telkom,school
+IPB,school
+Unair,school
+UMN,school
+Jakarta,city
+Bandung,city
+Surabaya,city
+Yogyakarta,city
+Depok,city
+Tangerang,city
+Entry Level,experience_level
+Mid Level,experience_level
+Senior Level,experience_level
+Manager,experience_level
+Director,experience_level
+AWS Certified,certification
+Google Cloud Certified,certification
+Microsoft Certified,certification
+Cisco Certified,certification
+CompTIA Certified,certification
+Software Engineer,job_role
+Data Scientist,job_role
+Web Developer,job_role
+Mobile Developer,job_role
+DevOps Engineer,job_role
+UI/UX Designer,job_role
+Product Manager,job_role
+System Analyst,job_role
+Network Engineer,job_role
+Database Administrator,job_role
+Cum Laude,GPA_level
+Magna Cum Laude,GPA_level
+Summa Cum Laude,GPA_level
+With Honors,GPA_level
+Regular,GPA_level

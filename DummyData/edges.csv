@@ -1,0 +1,526 @@
+source,target,relation
+Dewi Santoso,Binus,attended
+Dewi Santoso,Tangerang,lives_in
+Dewi Santoso,Kubernetes,has_skill
+Dewi Santoso,PHP,has_skill
+Dewi Santoso,AWS,has_skill
+Dewi Santoso,Swift,has_skill
+Dewi Santoso,Japanese,speaks
+Dewi Santoso,Indonesian,speaks
+Dewi Santoso,job_16,applied
+Indah Saputra,IPB,attended
+Indah Saputra,Jakarta,lives_in
+Indah Saputra,C++,has_skill
+Indah Saputra,Go,has_skill
+Indah Saputra,Mandarin,speaks
+Indah Saputra,job_2,applied
+Indah Saputra,job_12,applied
+Indah Saputra,job_12,applied
+Hadi Utami,UMN,attended
+Hadi Utami,Yogyakarta,lives_in
+Hadi Utami,PHP,has_skill
+Hadi Utami,Kubernetes,has_skill
+Hadi Utami,Python,has_skill
+Hadi Utami,C++,has_skill
+Hadi Utami,Japanese,speaks
+Hadi Utami,English,speaks
+Hadi Utami,job_13,applied
+Hadi Utami,job_5,applied
+Dewi Fauzi,IPB,attended
+Dewi Fauzi,Jakarta,lives_in
+Dewi Fauzi,PHP,has_skill
+Dewi Fauzi,Docker,has_skill
+Dewi Fauzi,HTML,has_skill
+Dewi Fauzi,Docker,has_skill
+Dewi Fauzi,Japanese,speaks
+Dewi Fauzi,job_16,applied
+Dewi Fauzi,job_19,applied
+Dewi Fauzi,job_6,applied
+Citra Permata,UGM,attended
+Citra Permata,Surabaya,lives_in
+Citra Permata,Kubernetes,has_skill
+Citra Permata,Docker,has_skill
+Citra Permata,Arabic,speaks
+Citra Permata,job_15,applied
+Citra Permata,job_0,applied
+Nina Santoso,UI,attended
+Nina Santoso,Surabaya,lives_in
+Nina Santoso,JavaScript,has_skill
+Nina Santoso,Java,has_skill
+Nina Santoso,JavaScript,has_skill
+Nina Santoso,English,speaks
+Nina Santoso,job_15,applied
+Nina Santoso,job_2,applied
+Nina Santoso,job_17,applied
+Andi Wibowo,UGM,attended
+Andi Wibowo,Bandung,lives_in
+Andi Wibowo,Firebase,has_skill
+Andi Wibowo,Kubernetes,has_skill
+Andi Wibowo,HTML,has_skill
+Andi Wibowo,PHP,has_skill
+Andi Wibowo,Indonesian,speaks
+Andi Wibowo,Arabic,speaks
+Andi Wibowo,job_6,applied
+Andi Wibowo,job_9,applied
+Andi Wibowo,job_12,applied
+Gita Saputra,ITS,attended
+Gita Saputra,Yogyakarta,lives_in
+Gita Saputra,MongoDB,has_skill
+Gita Saputra,C++,has_skill
+Gita Saputra,JavaScript,has_skill
+Gita Saputra,JavaScript,has_skill
+Gita Saputra,Japanese,speaks
+Gita Saputra,job_18,applied
+Qori Permata,Unair,attended
+Qori Permata,Bandung,lives_in
+Qori Permata,JavaScript,has_skill
+Qori Permata,Python,has_skill
+Qori Permata,SQL,has_skill
+Qori Permata,Java,has_skill
+Qori Permata,English,speaks
+Qori Permata,job_10,applied
+Andi Fauzi,UI,attended
+Andi Fauzi,Depok,lives_in
+Andi Fauzi,PHP,has_skill
+Andi Fauzi,Firebase,has_skill
+Andi Fauzi,Arabic,speaks
+Andi Fauzi,job_18,applied
+Gita Fauzi,UMN,attended
+Gita Fauzi,Yogyakarta,lives_in
+Gita Fauzi,Firebase,has_skill
+Gita Fauzi,Swift,has_skill
+Gita Fauzi,English,speaks
+Gita Fauzi,job_13,applied
+Nina Saputra,ITS,attended
+Nina Saputra,Yogyakarta,lives_in
+Nina Saputra,MongoDB,has_skill
+Nina Saputra,Java,has_skill
+Nina Saputra,C++,has_skill
+Nina Saputra,Mandarin,speaks
+Nina Saputra,job_10,applied
+Nina Saputra,job_3,applied
+Nina Saputra,job_7,applied
+Oka Permata,Binus,attended
+Oka Permata,Bandung,lives_in
+Oka Permata,MongoDB,has_skill
+Oka Permata,Go,has_skill
+Oka Permata,Swift,has_skill
+Oka Permata,HTML,has_skill
+Oka Permata,Mandarin,speaks
+Oka Permata,Indonesian,speaks
+Oka Permata,job_14,applied
+Indah Santoso,Unair,attended
+Indah Santoso,Jakarta,lives_in
+Indah Santoso,Kubernetes,has_skill
+Indah Santoso,Python,has_skill
+Indah Santoso,Indonesian,speaks
+Indah Santoso,job_13,applied
+Fajar Ramadhan,IPB,attended
+Fajar Ramadhan,Yogyakarta,lives_in
+Fajar Ramadhan,Kotlin,has_skill
+Fajar Ramadhan,Java,has_skill
+Fajar Ramadhan,Mandarin,speaks
+Fajar Ramadhan,job_12,applied
+Kiki Wijaya,Unpad,attended
+Kiki Wijaya,Yogyakarta,lives_in
+Kiki Wijaya,Swift,has_skill
+Kiki Wijaya,Kubernetes,has_skill
+Kiki Wijaya,Firebase,has_skill
+Kiki Wijaya,Indonesian,speaks
+Kiki Wijaya,job_6,applied
+Kiki Wijaya,job_1,applied
+Eka Saputra,UMN,attended
+Eka Saputra,Tangerang,lives_in
+Eka Saputra,Java,has_skill
+Eka Saputra,NodeJS,has_skill
+Eka Saputra,Java,has_skill
+Eka Saputra,Java,has_skill
+Eka Saputra,Arabic,speaks
+Eka Saputra,Arabic,speaks
+Eka Saputra,job_1,applied
+Kiki Wibowo,Unair,attended
+Kiki Wibowo,Jakarta,lives_in
+Kiki Wibowo,SQL,has_skill
+Kiki Wibowo,GCP,has_skill
+Kiki Wibowo,Indonesian,speaks
+Kiki Wibowo,job_3,applied
+Kiki Wibowo,job_18,applied
+Citra Ramadhan,Binus,attended
+Citra Ramadhan,Depok,lives_in
+Citra Ramadhan,Java,has_skill
+Citra Ramadhan,GCP,has_skill
+Citra Ramadhan,SQL,has_skill
+Citra Ramadhan,Swift,has_skill
+Citra Ramadhan,Japanese,speaks
+Citra Ramadhan,Indonesian,speaks
+Citra Ramadhan,job_10,applied
+Citra Ramadhan,job_7,applied
+Citra Ramadhan,job_8,applied
+Dewi Halim,Telkom,attended
+Dewi Halim,Bandung,lives_in
+Dewi Halim,R,has_skill
+Dewi Halim,MongoDB,has_skill
+Dewi Halim,NodeJS,has_skill
+Dewi Halim,SQL,has_skill
+Dewi Halim,Mandarin,speaks
+Dewi Halim,job_18,applied
+Dewi Halim,job_3,applied
+Dewi Halim,job_2,applied
+Lia Permata,Unair,attended
+Lia Permata,Bandung,lives_in
+Lia Permata,PHP,has_skill
+Lia Permata,Go,has_skill
+Lia Permata,TypeScript,has_skill
+Lia Permata,SQL,has_skill
+Lia Permata,Japanese,speaks
+Lia Permata,job_5,applied
+Lia Permata,job_14,applied
+Indah Santoso,Unair,attended
+Indah Santoso,Tangerang,lives_in
+Indah Santoso,GCP,has_skill
+Indah Santoso,Docker,has_skill
+Indah Santoso,Python,has_skill
+Indah Santoso,English,speaks
+Indah Santoso,Indonesian,speaks
+Indah Santoso,job_3,applied
+Indah Santoso,job_3,applied
+Oka Fauzi,Unair,attended
+Oka Fauzi,Bandung,lives_in
+Oka Fauzi,R,has_skill
+Oka Fauzi,GCP,has_skill
+Oka Fauzi,CSS,has_skill
+Oka Fauzi,Indonesian,speaks
+Oka Fauzi,Japanese,speaks
+Oka Fauzi,job_15,applied
+Oka Fauzi,job_8,applied
+Oka Fauzi,job_1,applied
+Dewi Ramadhan,UI,attended
+Dewi Ramadhan,Tangerang,lives_in
+Dewi Ramadhan,PHP,has_skill
+Dewi Ramadhan,Java,has_skill
+Dewi Ramadhan,Python,has_skill
+Dewi Ramadhan,Indonesian,speaks
+Dewi Ramadhan,Japanese,speaks
+Dewi Ramadhan,job_14,applied
+Citra Fauzi,Unair,attended
+Citra Fauzi,Tangerang,lives_in
+Citra Fauzi,Kubernetes,has_skill
+Citra Fauzi,Python,has_skill
+Citra Fauzi,C++,has_skill
+Citra Fauzi,Indonesian,speaks
+Citra Fauzi,job_1,applied
+Citra Fauzi,job_11,applied
+Citra Fauzi,job_18,applied
+Joko Permata,Unair,attended
+Joko Permata,Bandung,lives_in
+Joko Permata,Go,has_skill
+Joko Permata,Java,has_skill
+Joko Permata,R,has_skill
+Joko Permata,English,speaks
+Joko Permata,Japanese,speaks
+Joko Permata,job_7,applied
+Lia Permata,UI,attended
+Lia Permata,Surabaya,lives_in
+Lia Permata,Swift,has_skill
+Lia Permata,GCP,has_skill
+Lia Permata,Go,has_skill
+Lia Permata,JavaScript,has_skill
+Lia Permata,Indonesian,speaks
+Lia Permata,job_0,applied
+Lia Permata,job_5,applied
+Gita Wibowo,ITS,attended
+Gita Wibowo,Yogyakarta,lives_in
+Gita Wibowo,JavaScript,has_skill
+Gita Wibowo,PHP,has_skill
+Gita Wibowo,HTML,has_skill
+Gita Wibowo,C++,has_skill
+Gita Wibowo,English,speaks
+Gita Wibowo,Mandarin,speaks
+Gita Wibowo,job_6,applied
+Budi Saputra,IPB,attended
+Budi Saputra,Surabaya,lives_in
+Budi Saputra,JavaScript,has_skill
+Budi Saputra,JavaScript,has_skill
+Budi Saputra,Python,has_skill
+Budi Saputra,Mandarin,speaks
+Budi Saputra,job_8,applied
+Budi Saputra,job_2,applied
+Joko Wibowo,Unpad,attended
+Joko Wibowo,Surabaya,lives_in
+Joko Wibowo,Docker,has_skill
+Joko Wibowo,Kotlin,has_skill
+Joko Wibowo,Kubernetes,has_skill
+Joko Wibowo,NodeJS,has_skill
+Joko Wibowo,English,speaks
+Joko Wibowo,job_5,applied
+Joko Wibowo,job_18,applied
+Hadi Wibowo,Unpad,attended
+Hadi Wibowo,Jakarta,lives_in
+Hadi Wibowo,GCP,has_skill
+Hadi Wibowo,Swift,has_skill
+Hadi Wibowo,Japanese,speaks
+Hadi Wibowo,Mandarin,speaks
+Hadi Wibowo,job_16,applied
+Hadi Wibowo,job_3,applied
+Hadi Wibowo,job_12,applied
+Mira Wijaya,UMN,attended
+Mira Wijaya,Bandung,lives_in
+Mira Wijaya,Java,has_skill
+Mira Wijaya,Swift,has_skill
+Mira Wijaya,Python,has_skill
+Mira Wijaya,Japanese,speaks
+Mira Wijaya,job_2,applied
+Mira Wijaya,job_10,applied
+Oka Halim,UMN,attended
+Oka Halim,Surabaya,lives_in
+Oka Halim,C++,has_skill
+Oka Halim,R,has_skill
+Oka Halim,Docker,has_skill
+Oka Halim,R,has_skill
+Oka Halim,Japanese,speaks
+Oka Halim,Mandarin,speaks
+Oka Halim,job_9,applied
+Oka Halim,job_17,applied
+Oka Halim,job_4,applied
+Fajar Halim,Binus,attended
+Fajar Halim,Yogyakarta,lives_in
+Fajar Halim,Kotlin,has_skill
+Fajar Halim,HTML,has_skill
+Fajar Halim,GCP,has_skill
+Fajar Halim,AWS,has_skill
+Fajar Halim,Mandarin,speaks
+Fajar Halim,Arabic,speaks
+Fajar Halim,job_9,applied
+Lia Saputra,Unpad,attended
+Lia Saputra,Bandung,lives_in
+Lia Saputra,AWS,has_skill
+Lia Saputra,GCP,has_skill
+Lia Saputra,NodeJS,has_skill
+Lia Saputra,Mandarin,speaks
+Lia Saputra,Mandarin,speaks
+Lia Saputra,job_6,applied
+Lia Saputra,job_16,applied
+Lia Saputra,job_15,applied
+Indah Wibowo,UGM,attended
+Indah Wibowo,Tangerang,lives_in
+Indah Wibowo,R,has_skill
+Indah Wibowo,Docker,has_skill
+Indah Wibowo,English,speaks
+Indah Wibowo,Indonesian,speaks
+Indah Wibowo,job_9,applied
+Indah Wibowo,job_7,applied
+Indah Wibowo,job_6,applied
+Tono Utami,UGM,attended
+Tono Utami,Jakarta,lives_in
+Tono Utami,JavaScript,has_skill
+Tono Utami,Firebase,has_skill
+Tono Utami,Mandarin,speaks
+Tono Utami,job_18,applied
+Tono Utami,job_6,applied
+Rudi Saputra,Telkom,attended
+Rudi Saputra,Yogyakarta,lives_in
+Rudi Saputra,JavaScript,has_skill
+Rudi Saputra,Go,has_skill
+Rudi Saputra,Python,has_skill
+Rudi Saputra,Mandarin,speaks
+Rudi Saputra,job_5,applied
+Fajar Hernawan,Unair,attended
+Fajar Hernawan,Yogyakarta,lives_in
+Fajar Hernawan,Kubernetes,has_skill
+Fajar Hernawan,JavaScript,has_skill
+Fajar Hernawan,Mandarin,speaks
+Fajar Hernawan,job_14,applied
+Mira Wijaya,Unair,attended
+Mira Wijaya,Depok,lives_in
+Mira Wijaya,NodeJS,has_skill
+Mira Wijaya,MongoDB,has_skill
+Mira Wijaya,GCP,has_skill
+Mira Wijaya,Docker,has_skill
+Mira Wijaya,Arabic,speaks
+Mira Wijaya,Mandarin,speaks
+Mira Wijaya,job_15,applied
+Rudi Saputra,IPB,attended
+Rudi Saputra,Surabaya,lives_in
+Rudi Saputra,PHP,has_skill
+Rudi Saputra,Docker,has_skill
+Rudi Saputra,Indonesian,speaks
+Rudi Saputra,Japanese,speaks
+Rudi Saputra,job_2,applied
+Rudi Saputra,job_9,applied
+Kiki Santoso,Binus,attended
+Kiki Santoso,Surabaya,lives_in
+Kiki Santoso,NodeJS,has_skill
+Kiki Santoso,Kubernetes,has_skill
+Kiki Santoso,SQL,has_skill
+Kiki Santoso,Indonesian,speaks
+Kiki Santoso,job_12,applied
+Hadi Santoso,UGM,attended
+Hadi Santoso,Tangerang,lives_in
+Hadi Santoso,SQL,has_skill
+Hadi Santoso,Swift,has_skill
+Hadi Santoso,Japanese,speaks
+Hadi Santoso,Arabic,speaks
+Hadi Santoso,job_13,applied
+Hadi Santoso,job_1,applied
+Kiki Ramadhan,Binus,attended
+Kiki Ramadhan,Yogyakarta,lives_in
+Kiki Ramadhan,AWS,has_skill
+Kiki Ramadhan,Python,has_skill
+Kiki Ramadhan,AWS,has_skill
+Kiki Ramadhan,Mandarin,speaks
+Kiki Ramadhan,English,speaks
+Kiki Ramadhan,job_9,applied
+Kiki Ramadhan,job_12,applied
+Indah Wibowo,Telkom,attended
+Indah Wibowo,Depok,lives_in
+Indah Wibowo,Kubernetes,has_skill
+Indah Wibowo,GCP,has_skill
+Indah Wibowo,JavaScript,has_skill
+Indah Wibowo,Firebase,has_skill
+Indah Wibowo,Japanese,speaks
+Indah Wibowo,job_15,applied
+Indah Wibowo,job_0,applied
+Gita Permata,Telkom,attended
+Gita Permata,Surabaya,lives_in
+Gita Permata,Kotlin,has_skill
+Gita Permata,HTML,has_skill
+Gita Permata,MongoDB,has_skill
+Gita Permata,Go,has_skill
+Gita Permata,Mandarin,speaks
+Gita Permata,job_18,applied
+Gita Permata,job_0,applied
+Gita Permata,job_2,applied
+Kiki Saputra,Telkom,attended
+Kiki Saputra,Bandung,lives_in
+Kiki Saputra,HTML,has_skill
+Kiki Saputra,Java,has_skill
+Kiki Saputra,PHP,has_skill
+Kiki Saputra,Japanese,speaks
+Kiki Saputra,Indonesian,speaks
+Kiki Saputra,job_10,applied
+Kiki Saputra,job_10,applied
+Putri Ramadhan,Telkom,attended
+Putri Ramadhan,Surabaya,lives_in
+Putri Ramadhan,PHP,has_skill
+Putri Ramadhan,SQL,has_skill
+Putri Ramadhan,Firebase,has_skill
+Putri Ramadhan,Arabic,speaks
+Putri Ramadhan,job_11,applied
+Oka Utami,Binus,attended
+Oka Utami,Tangerang,lives_in
+Oka Utami,Java,has_skill
+Oka Utami,Python,has_skill
+Oka Utami,Indonesian,speaks
+Oka Utami,job_19,applied
+Indah Utami,UGM,attended
+Indah Utami,Bandung,lives_in
+Indah Utami,Firebase,has_skill
+Indah Utami,C++,has_skill
+Indah Utami,Mandarin,speaks
+Indah Utami,job_8,applied
+Indah Utami,job_11,applied
+Indah Utami,job_5,applied
+job_0,Dana,offered_by
+job_0,Depok,located_in
+job_0,C++,requires
+job_0,HTML,requires
+job_0,R,requires
+job_0,C++,requires
+job_1,Dana,offered_by
+job_1,Jakarta,located_in
+job_1,AWS,requires
+job_1,Kotlin,requires
+job_1,Kotlin,requires
+job_2,Gojek,offered_by
+job_2,Jakarta,located_in
+job_2,JavaScript,requires
+job_2,C++,requires
+job_2,R,requires
+job_2,GCP,requires
+job_3,Bukalapak,offered_by
+job_3,Depok,located_in
+job_3,TypeScript,requires
+job_3,Kubernetes,requires
+job_4,Ruangguru,offered_by
+job_4,Tangerang,located_in
+job_4,SQL,requires
+job_4,Docker,requires
+job_4,NodeJS,requires
+job_5,Tokopedia,offered_by
+job_5,Yogyakarta,located_in
+job_5,C++,requires
+job_5,Swift,requires
+job_5,TypeScript,requires
+job_6,OVO,offered_by
+job_6,Tangerang,located_in
+job_6,Swift,requires
+job_6,HTML,requires
+job_7,Zenius,offered_by
+job_7,Tangerang,located_in
+job_7,GCP,requires
+job_7,Kubernetes,requires
+job_7,Firebase,requires
+job_8,OVO,offered_by
+job_8,Yogyakarta,located_in
+job_8,AWS,requires
+job_8,PHP,requires
+job_8,NodeJS,requires
+job_8,JavaScript,requires
+job_9,Bukalapak,offered_by
+job_9,Surabaya,located_in
+job_9,JavaScript,requires
+job_9,MongoDB,requires
+job_9,AWS,requires
+job_10,Dana,offered_by
+job_10,Tangerang,located_in
+job_10,NodeJS,requires
+job_10,Python,requires
+job_10,Firebase,requires
+job_11,Traveloka,offered_by
+job_11,Bandung,located_in
+job_11,CSS,requires
+job_11,TypeScript,requires
+job_11,PHP,requires
+job_12,Traveloka,offered_by
+job_12,Surabaya,located_in
+job_12,PHP,requires
+job_12,Kubernetes,requires
+job_12,Python,requires
+job_12,Docker,requires
+job_13,Gojek,offered_by
+job_13,Jakarta,located_in
+job_13,Swift,requires
+job_13,Firebase,requires
+job_14,Zenius,offered_by
+job_14,Bandung,located_in
+job_14,Firebase,requires
+job_14,Firebase,requires
+job_14,MongoDB,requires
+job_14,Python,requires
+job_15,Bukalapak,offered_by
+job_15,Surabaya,located_in
+job_15,Kotlin,requires
+job_15,JavaScript,requires
+job_16,Grab,offered_by
+job_16,Tangerang,located_in
+job_16,TypeScript,requires
+job_16,Firebase,requires
+job_16,Kubernetes,requires
+job_16,Docker,requires
+job_17,Traveloka,offered_by
+job_17,Yogyakarta,located_in
+job_17,Kubernetes,requires
+job_17,NodeJS,requires
+job_17,TypeScript,requires
+job_17,MongoDB,requires
+job_18,Grab,offered_by
+job_18,Surabaya,located_in
+job_18,JavaScript,requires
+job_18,C++,requires
+job_18,CSS,requires
+job_19,Traveloka,offered_by
+job_19,Jakarta,located_in
+job_19,Kubernetes,requires
+job_19,HTML,requires
+job_19,CSS,requires
+job_19,CSS,requires
