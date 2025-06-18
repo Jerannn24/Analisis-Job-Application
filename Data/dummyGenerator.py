@@ -31,10 +31,10 @@ job_roles = ['Software Engineer', 'Data Scientist', 'Web Developer', 'Mobile Dev
 GPA_levels = ['Cum Laude', 'Magna Cum Laude', 'Summa Cum Laude', 'With Honors', 'Regular']
 
 # ========================
-# 2. BUAT NODES
+# NODE GENERATION
 # ========================
-applicants = [f"{random.choice(first_names)} {random.choice(last_names)}" for _ in range(50)]
-jobs = [f"job_{i}" for i in range(20)]
+applicants = [f"{fn} {ln}" for fn in first_names for ln in last_names]
+jobs = [f"job_{i}" for i in range(10)]
 
 nodes = []
 nodes += [{'node': name, 'type': 'applicant'} for name in applicants]
@@ -53,60 +53,72 @@ nodes_df = pd.DataFrame(nodes)
 nodes_df.to_csv(f"{folder}/nodes.csv", index=False)
 
 # ========================
-# 3. BUAT EDGES
+# EDGE GENERATION
 # ========================
 edges = []
 for applicant in applicants:
     edges.append({'source': applicant, 'target': random.choice(schools), 'relation': 'attended'})
     edges.append({'source': applicant, 'target': random.choice(cities), 'relation': 'lives_in'})
-    
-    skill_count = random.randint(2, 4)
-    selected_skills = random.sample(skills, skill_count)
-    for skill in selected_skills:
-        edges.append({'source': applicant, 'target': skill, 'relation': 'has_skill'})
-        
-    lang_count = random.randint(1, 2)
-    selected_langs = random.sample(languages, lang_count)
-    for lang in selected_langs:
-        edges.append({'source': applicant, 'target': lang, 'relation': 'speaks'})
-        
-    applied_jobs = random.sample(jobs, random.randint(1, 3))
-    for job in applied_jobs:
-        edges.append({'source': applicant, 'target': job, 'relation': 'applied'})
-        
-    cert_count = random.randint(1, 2)
-    selected_certs = random.sample(certifications, cert_count)
-    for cert in selected_certs:
-        edges.append({'source': applicant, 'target': cert, 'relation': 'has_certification'})
-
     edges.append({'source': applicant, 'target': random.choice(exp_levels), 'relation': 'has_experience_level'})
     edges.append({'source': applicant, 'target': random.choice(GPA_levels), 'relation': 'has_GPA_level'})
-    
 
+    for skill in random.sample(skills, 3):
+        edges.append({'source': applicant, 'target': skill, 'relation': 'has_skill'})
+
+    for lang in random.sample(languages, 1):
+        edges.append({'source': applicant, 'target': lang, 'relation': 'speaks'})
+
+    for cert in random.sample(certifications, 1):
+        edges.append({'source': applicant, 'target': cert, 'relation': 'has_certification'})
+
+# Hubungan job
 for job in jobs:
     edges.append({'source': job, 'target': random.choice(companies), 'relation': 'offered_by'})
     edges.append({'source': job, 'target': random.choice(cities), 'relation': 'located_in'})
-    for _ in range(random.randint(2, 4)):
-        edges.append({'source': job, 'target': random.choice(skills), 'relation': 'requires'})
     edges.append({'source': job, 'target': random.choice(exp_levels), 'relation': 'requires_experience_level'})
     edges.append({'source': job, 'target': random.choice(certifications), 'relation': 'requires_certification'})
     edges.append({'source': job, 'target': random.choice(job_roles), 'relation': 'is_job_role'})
     edges.append({'source': job, 'target': random.choice(GPA_levels), 'relation': 'requires_GPA_level'})
-    
+
+    for skill in random.sample(skills, 3):
+        edges.append({'source': job, 'target': skill, 'relation': 'requires'})
+
 edges_df = pd.DataFrame(edges)
-edges_df.to_csv(f"{folder}/edges.csv", index=False)
 
 # ========================
-# 4. BUAT LABELS
+# LAMARAN & LABELS (REALISTIK)
 # ========================
 labels = []
-applied_edges = edges_df[edges_df['relation'] == 'applied'].sample(frac=0.6, random_state=42)
-for edge in applied_edges.itertuples():
-    labels.append({
-        'applicant': edge.source,
-        'job': edge.target,
-        'accepted': random.choice([0, 1])
-    })
+
+for applicant in applicants:
+    applied_jobs = random.sample(jobs, 2)
+    for job in applied_jobs:
+        edges.append({'source': applicant, 'target': job, 'relation': 'applied'})
+
+        # Ambil skill applicant
+        applicant_skills = set(
+            edge['target'] for edge in edges
+            if edge['source'] == applicant and edge['relation'] == 'has_skill'
+        )
+
+        # Ambil skill yang dibutuhkan oleh job
+        job_skills = set(
+            edge['target'] for edge in edges
+            if edge['source'] == job and edge['relation'] == 'requires'
+        )
+
+        # Hitung overlap skill
+        skill_overlap = len(applicant_skills & job_skills)
+
+        # Simulasikan diterima atau tidak berdasarkan overlap skill
+        acceptance_prob = 0.2 + 0.2 * skill_overlap  # 0.2 baseline + 0.2 per skill match
+        accepted = 1 if random.random() < acceptance_prob else 0
+
+        labels.append({'applicant': applicant, 'job': job, 'accepted': accepted})
+
+# Simpan CSV
+edges_df = pd.DataFrame(edges)
+edges_df.to_csv(f"{folder}/edges.csv", index=False)
 
 labels_df = pd.DataFrame(labels)
 labels_df.to_csv(f"{folder}/labels.csv", index=False)
