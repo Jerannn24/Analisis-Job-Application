@@ -15,8 +15,13 @@ os.makedirs(folder, exist_ok=True)
 # 1. DEFINISI NAMA NYATA
 # ========================
 first_names = ['Andi', 'Budi', 'Citra', 'Dewi', 'Eka', 'Fajar', 'Gita', 'Hadi', 'Indah', 'Joko',
-               'Kiki', 'Lia', 'Mira', 'Nina', 'Oka', 'Putri', 'Qori', 'Rudi', 'Sari', 'Tono']
-last_names = ['Santoso', 'Wibowo', 'Utami', 'Saputra', 'Wijaya', 'Halim', 'Ramadhan', 'Hernawan', 'Fauzi', 'Permata']
+               'Kiki', 'Lia', 'Mira', 'Nina', 'Oka', 'Putri', 'Qori', 'Rudi', 'Sari', 'Tono', 'Umi',
+               'Vina', 'Wawan', 'Xena', 'Yani', 'Zaki', 'Ayu', 'Bima', 'Cahya', 'Dimas', 'Eko', 'Fika',
+               'Gilang', 'Hana', 'Ika', 'Jaya', 'Kirana', 'Lutfi', 'Maya', 'Nanda', 'Omar', 'Puti']
+last_names = ['Santoso', 'Wibowo', 'Utami', 'Saputra', 'Wijaya', 'Halim', 'Ramadhan', 'Hernawan', 'Fauzi', 'Permata', 'Suryanto',
+               'Prabowo', 'Sihombing', 'Gunawan', 'Lestari', 'Nugroho', 'Siregar', 'Yulianto', 'Kusuma', 'Hidayat', 'Purnama','aditya',
+               'Prasetyo', 'Sutrisno', 'Wulandari', 'Siregar', 'Haryanto', 'Larasati', 'Prabuwono', 'Kurniawan', 'Sukmawati', 'Wicaksono',
+               'Sutanto', 'Wicaksono', 'Prabowo', 'Haryanto', 'Lestari', 'Nugroho', 'Siregar', 'Yulianto', 'Kusuma', 'Hidayat', 'Purnama']
 
 companies = ['Tokopedia', 'Bukalapak', 'Shopee', 'Gojek', 'Grab', 'Traveloka', 'Ruangguru', 'OVO', 'Zenius', 'Dana']
 skills = ['Python', 'Java', 'SQL', 'C++', 'Go', 'HTML', 'CSS', 'JavaScript', 'PHP', 'R',
@@ -111,7 +116,7 @@ for applicant in applicants:
         skill_overlap = len(applicant_skills & job_skills)
 
         # Simulasikan diterima atau tidak berdasarkan overlap skill
-        acceptance_prob = 0.2 + 0.2 * skill_overlap  # 0.2 baseline + 0.2 per skill match
+        acceptance_prob = 0.4 + 0.2 * skill_overlap  # 0.2 baseline + 0.2 per skill match
         accepted = 1 if random.random() < acceptance_prob else 0
 
         labels.append({'applicant': applicant, 'job': job, 'accepted': accepted})
