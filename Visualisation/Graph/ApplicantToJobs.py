@@ -22,7 +22,7 @@ selected_applicants = applied_edges['source'].unique()[:20]
 filtered_edges = applied_edges[applied_edges['source'].isin(selected_applicants)]
 
 # Bangun graf kosong
-G = nx.Graph()
+G = nx.DiGraph()
 
 # Tambahkan node dan atributnya
 for app in selected_applicants:

@@ -38,7 +38,7 @@ edges_job_skill = edges_job_skill[edges_job_skill['target'].isin(selected_skills
 selected_jobs = edges_job_skill['source'].unique()
 
 # Bangun graf
-G = nx.Graph()
+G = nx.DiGraph()
 
 # Tambahkan node dengan atribut type
 for n in selected_applicants:
